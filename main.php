@@ -1,4 +1,5 @@
 <?php
 
 $dev = "ola mundo";
-echo $dev;
+$nome = "Eu sou o joao";
+echo $dev . " " . $nome;
